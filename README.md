@@ -10,3 +10,4 @@ Using:
 # To uninstall run this command
 launchctl unload ~/Library/LaunchAgents/automator.plist
 
+*Updating on further developments*
