@@ -7,6 +7,6 @@ Using:
 4. Copy "automator.plist" to "~/Library/LaunchAgents"
 5. Goto Terminal.app and run the following "launchctl load ~/Library/LaunchAgents/automator.plist"
   
-To uninstall run this command
+# To uninstall run this command
 launchctl unload ~/Library/LaunchAgents/automator.plist
 
