@@ -5,5 +5,5 @@ Using:
 2. Edit "autowall.command" and give path to "wallpaper.py" and Save
 3. Edit "automator.plist" and give path to "autowall.command" and Save
 4. Copy "automator.plist" to "~/Library/LaunchAgents"
-5. Goto Terminal.app type "lauchctl load -w <path of automator.plist>"
+5. Goto Terminal.app type "launchctl load -w <path of automator.plist>"
   
