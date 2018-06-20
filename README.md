@@ -2,8 +2,11 @@
 Automatically set daily Bing wallpaper as Background on Mac 
 Using:
 1. Download and Extract
-2. Edit "autowall.command" and give path to "wallpaper.py" and Save
-3. Edit "automator.plist" and give path to "autowall.command" and Save
+2. Edit "autowall.command" and edit path to "wallpaper.py" and Save
+3. Edit "automator.plist" and edit path to "autowall.command" and Save
 4. Copy "automator.plist" to "~/Library/LaunchAgents"
-5. Goto Terminal.app type "launchctl load -w <path of automator.plist>"
+5. Goto Terminal.app and run the following "launchctl load ~/Library/LaunchAgents/automator.plist"
   
+To uninstall run this command
+launchctl unload ~/Library/LaunchAgents/automator.plist
+
