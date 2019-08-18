@@ -1,4 +1,4 @@
-# Bing-wallpaper-mac
+# Bing wallpaper mac
 Automatically set daily Bing wallpaper as Background on Mac 
 Using:
 1. Download and Extract
